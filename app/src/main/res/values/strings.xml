@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RetrofitPractice9</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title Really Big title for for Big Big Big Big Person with good English Speaking skills</string>
+    <string name="id_of_item">id of item</string>
+    <string name="gif_from_giphy">Gif from giphy</string>
+</resources>
